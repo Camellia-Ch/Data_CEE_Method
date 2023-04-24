@@ -1,6 +1,5 @@
 # Fallow priority areas for spatial trade-offs between cost and efficiency in China
 ## DATA-CEE-Method
-Supplemenary Table
 Supplementary Table 9 Adsorption characteristics of hyperaccumulator plants and their costs for remediation of soil heavy metal pollution
 DATA is for calculating fallow implementation cost in China.
 
