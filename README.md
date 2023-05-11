@@ -1,10 +1,6 @@
 # Fallow priority areas for spatial trade-offs between cost and efficiency in China
 ## DATA-CEE-Method
 Supplementary Table 9 Adsorption characteristics of hyperaccumulator plants and their costs for remediation of soil heavy metal pollution
-Supplementary Table 2 Types and sources of data used for delineating the ecological protection redlines (EPR)
-
-### Data sources
-The data used for delineating the ecological protection redlines (EPR) are available in Supplementary Table 2. 
 
 ### Fallow implementation cost
 The total cost associated with fallow implementation included mainly four parts: the amount of crop production capacity lost (P_i), financial subsidies to farmers (S_i), fallow matching funds (F_i), and management costs on cultivated land (M_i), which refers to the soil treatment fee during the period of fallow cultivated land, such as soil pollution remediation or ecological restoration of groundwater exploitation. 
